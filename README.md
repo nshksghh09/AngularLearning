@@ -3,6 +3,7 @@
 ## 📌 Project Description
 This is a project that I made to learn Angular which is required for my internship.
 On completion of this project I got well versed with:
+
 1-component programming
 2-creating and using interfaces
 3-@Input(): that enables us to receive data from parent component using property binding
